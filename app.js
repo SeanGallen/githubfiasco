@@ -13,3 +13,5 @@ console.log('fourth step')
 console.log('fifth step')
 
 console.log('sixth step')
+
+console.log('seventh step')
