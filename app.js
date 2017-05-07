@@ -4,3 +4,4 @@ console.log('next step after starting app')
 
 var t = 'test'
 
+console.log(t)
